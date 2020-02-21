@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UX/UI Workflow</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,800,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="content">
+      <div class="block" id="header">
+        <div class="innerblock">
+          <div class="header">
+            <h1>UX/UI x Workflow <span class="thin">Draft</span></h1>
+          </div>
+        </div>
+      </div>
+
+      <div id="empathize" class="gradient">
+        <div class="block">
+          <div class="innerblock">
+            <div class="innerleft">
+              <h1>Empathize</h1>
+              <p>
+                Gain an understanding of the problem you are trying to solve.
+                Consult experts, find out about the area of concern through
+                observing, engage and empathize with people to understand their
+                experiences and motivations, immerse yourself in the physical
+                environment, gain a deeper personal understanding of the issue.
+              </p>
+            </div>
+            <div class="innercenter"></div>
+            <div class="innerright">
+              <h2>Methodology and Tools</h2>
+              <!-- h3>First Block Headline</h3 -->
+              <ul>
+                <li>Surveys</li>
+                <li>Interviews</li>
+                <li>Focus Groups</li>
+                <li>Online Research</li>
+                <li>Competitor Research</li>
+                <li>Business & Competitive Analysis</li>
+                <li>Lean Survey Canvas</li>
+                <li>Feature comparison</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="define" class="gradient">
+        <div class="block">
+          <div class="innerblock">
+            <div class="innerleft">
+              <h1>Define</h1>
+              <p>
+                Put together the information you have created and gathered
+                during the Empathise stage. Analyse your observations and
+                synthesise them in order to define the core problems that you
+                have identified up to this point. Define the problem as a
+                problem statement in a human-centred manner.
+              </p>
+            </div>
+            <div class="innercenter"></div>
+            <div class="innerright">
+              <h2>Methodology and Tools</h2>
+              <!-- h3>First Block Headline</h3 -->
+              <ul>
+                <li>Affinity Diagram</li>
+                <li>Empathy Map</li>
+                <li>User Persona(s)</li>
+                <li>Story Board</li>
+                <li>User Journey</li>
+                <li>Problem Statement</li>
+                <li>5 'W's - Who, What, Where, When and Why</li>
+                <li>HowMightWe Statement</li>
+                <li>Pain Pointe</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="ideate" class="gradient">
+        <div class="block">
+          <div class="innerblock">
+            <div class="innerleft">
+              <h1>Ideate</h1>
+              <p>
+                Start generating ideas! You’ve grown to understand your users
+                and their needs in the Empathise stage, and you’ve analysed and
+                synthesised your observations in the Define stage, and ended up
+                with a human-centered problem statement. Start to "think outside
+                the box".
+              </p>
+            </div>
+            <div class="innercenter"></div>
+            <div class="innerright">
+              <h2>Methodology and Tools</h2>
+              <!-- h3>First Block Headline</h3 -->
+              <ul>
+                <li>Crazy 8</li>
+                <li>MoSCoW Method</li>
+                <li>Round Robin</li>
+                <li>Worst Ideas</li>
+                <li>HowMightWe Statement</li>
+                <li>Brand Attributes</li>
+                <li>
+                  Information Architecture
+                </li>
+                <li>Sitemap</li>
+                <li>Card Sorting</li>
+                <li>Sitemap review</li>
+                <li>User Flow</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="prototype" class="gradient">
+        <div class="block">
+          <div class="innerblock">
+            <div class="innerleft">
+              <h1>Prototype</h1>
+              <p>
+                Produce inexpensive, scaled down versions of the product or
+                specific features, so one can investigate the problem solutions
+                generated in the previous stage. It's an experimental phase, the
+                aim is to identify the best possible solution for each of the
+                problems identified.
+              </p>
+            </div>
+            <div class="innercenter"></div>
+            <div class="innerright">
+              <h2>Methodology and Tools</h2>
+              <!-- h3>First Block Headline</h3 -->
+              <ul>
+                <li>Low-Fidelity Prototype</li>
+                <li>Low-Fidelity Testing</li>
+                <li>Iterations</li>
+                <li>Mid-Fidelity Prototype</li>
+                <li>Mid-Fidelity Testing</li>
+                <li>Iterations</li>
+                <li>Hi-Fidelity Prototype</li>
+                <li>Microinteractions</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="testing" class="gradient">
+        <div class="block">
+          <div class="innerblock">
+            <div class="innerleft">
+              <h1>Testing</h1>
+              <p>
+                Rigorously test the complete product using the best solutions
+                identified during the prototyping phase. It's an iterative
+                process, the results are used to redefine one or more problems
+                and inform the understanding of the users, the conditions of
+                use, how people think, behave, and feel.
+              </p>
+            </div>
+            <div class="innercenter"></div>
+            <div class="innerright">
+              <h2>Methodology and Tools</h2>
+              <!-- h3>First Block Headline</h3 -->
+              <ul>
+                <li>First thing</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="footer">
+        <div class="block">
+          <div class="innerblock">
+            <div class="footer"><h1>UX/UI Workflow</h1></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
