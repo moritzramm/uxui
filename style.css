@@ -1,0 +1,150 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Raleway", "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  color: #fff;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue", "Raleway", "Montserrat", sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+h2 {
+  margin-bottom: 6px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+div#header {
+  color: #000;
+  height: 120px;
+}
+
+#header h1,
+#footer h1 {
+  font-size: 4rem;
+}
+
+div#footer {
+  color: #fff;
+  height: 100px;
+  background-color: black;
+}
+
+div.block {
+  width: 100vw;
+  display: flex;
+  background-image: url(images/bg_diamond.svg);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: top;
+  padding-bottom: 20px;
+}
+
+div.innerblock {
+  display: flex;
+  justify-content: space-between;
+  width: 85vw;
+  max-width: 1140px;
+  margin: 14px auto;
+  xbackground-color: rgb(000, 000, 000, 0.2);
+}
+
+div#empathize.gradient {
+  background: linear-gradient(135deg, #ff1336, #b50000);
+}
+div#define.gradient {
+  background-image: linear-gradient(
+    to right bottom,
+    #ff0099,
+    #ec008e,
+    #d90083,
+    #c60078,
+    #b4006d
+  );
+}
+div#ideate.gradient {
+  background-image: linear-gradient(
+    -225deg,
+    #ac32e4 0%,
+    #7918f2 48%,
+    #4801ff 100%
+  );
+}
+div#prototype.gradient {
+  background-image: linear-gradient(
+    to right bottom,
+    #1200ff,
+    #1800e4,
+    #1b00c9,
+    #1b00af,
+    #1a0096
+  );
+}
+
+div#testing.gradient {
+  background-image: linear-gradient(
+    to right bottom,
+    #008ae4,
+    #0096e9,
+    #00a1ed,
+    #00acf1,
+    #00b7f3
+  );
+}
+
+div.block {
+  width: 100vw;
+  display: flex;
+  background-image: url(images/bg_diamond.svg);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: top;
+}
+
+div.innerleft {
+  width: 22vw;
+}
+div.innerright {
+  width: 22vw;
+}
+
+.innerright ul {
+  padding-left: 15px;
+}
+
+#footer div.block {
+  background-image: none;
+}
+
+span.thin {
+  color: red;
+  font-weight: 200;
+}
