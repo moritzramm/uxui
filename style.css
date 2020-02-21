@@ -75,7 +75,7 @@ div.innerblock {
   width: 85vw;
   max-width: 1140px;
   margin: 14px auto;
-  xbackground-color: rgb(000, 000, 000, 0.2);
+  background-color: xrgb(000, 000, 000, 0.2);
 }
 
 div#empathize.gradient {
@@ -149,5 +149,3 @@ span.thin {
   color: red;
   font-weight: 200;
 }
-
-xyz
