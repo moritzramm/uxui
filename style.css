@@ -149,3 +149,22 @@ span.thin {
   color: red;
   font-weight: 200;
 }
+
+#header h1 a {
+  color: #000;
+  text-decoration: none;
+}
+
+#header h1 a:hover {
+  text-decoration: solid 1px;
+  border-bottom: 1px solid #fff;
+}
+.innerleft h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.innerleft h1 a:hover {
+  text-decoration: solid 1px;
+  border-bottom: 1px solid #fff;
+}
