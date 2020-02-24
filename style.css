@@ -10,13 +10,8 @@ html {
 }
 
 body {
-<<<<<<< HEAD
-  font-family: "Museo", "Raleway", "Montserrat", sans-serif;
-  font-size: 1.4rem;
-=======
   font-family: "Raleway", "Montserrat", sans-serif;
   font-size: 1.5rem;
->>>>>>> 3773b8456d2c681b87a07cd7a080891357b5d904
   color: #fff;
   font-weight: 400;
 }
