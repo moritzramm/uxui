@@ -121,6 +121,17 @@ div#testing.gradient {
   );
 }
 
+div#stuff.gradient {
+  background-image: linear-gradient(
+    to right bottom,
+    #777777,
+    #707070,
+    #696969,
+    #626262,
+    #5b5b5b
+  );
+}
+
 div.block {
   width: 100vw;
   display: flex;
